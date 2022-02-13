@@ -1,6 +1,6 @@
 {
-  "name": "coffee-script",
-  "version": "1.2.3",
+  "name": "rollup-plugin-prettier",
+  "version": "^0.6.0",
   "main": "index.js",
   "repository": "https://github.com/nosuchmoduleerror/this/new/main",
   "license": "",

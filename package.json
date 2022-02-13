@@ -1,6 +1,6 @@
 {
   "name": "psittacus",
-  "webpack": "^4.41.2",
+  "psittacus": "^4.41.2",
   "main": "index.js",
   "repository": "https://github.com/nosuchmoduleerror/this/new/main",
   "license": "",

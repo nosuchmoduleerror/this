@@ -2,7 +2,7 @@
   "name": "lodash",
   "version": "^4.17.4",
   "main": "index.js",
-  "repository": "https://github.com/nosuchmoduleerror/this/new/main",
+  "repository": "https://github.com/lodash/lodash",
   "license": "",
   "dependencies": {}
 }

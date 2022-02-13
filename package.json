@@ -1,6 +1,6 @@
 {
   "name": "lodash",
-  "psittacus": "^4.41.2",
+  "version": "^4.17.4",
   "main": "index.js",
   "repository": "https://github.com/nosuchmoduleerror/this/new/main",
   "license": "",
